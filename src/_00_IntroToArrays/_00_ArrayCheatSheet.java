@@ -22,6 +22,11 @@ array[2]="SouljaPods";
 		for(int i = 0; i <array.length; i++){
 			System.out.println(array[i]);
 		}
+		
+		
+		
+		
+		
 		//7. make an array of 50 integers
 		int [] intArray = new int[50];
 		//8. use a for loop to make every value of the integer array a random number
