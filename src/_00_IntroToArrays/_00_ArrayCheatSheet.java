@@ -7,7 +7,7 @@ public class _00_ArrayCheatSheet {
 		//1. make an array of 5 Strings
 String [] array = {"Phone", "Watch", "AirPods", "TV", "Computer"};
 		//2. print the third element in the array
-System.out.println(array[2]);
+System.out.println(array[2]); 
 		//3. set the third element to a different value
 array[2]="SouljaPods";
 		//4. print the third element again
